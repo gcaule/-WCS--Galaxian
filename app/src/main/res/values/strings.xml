@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Galaxian</string>
+    <string name="playerName">Entrer le nom du joueur</string>
+    <string name="password">Entrer le mot de passe</string>
+    <string name="sendButton">Envoyer</string>
+    <string name="scott">Scott</string>
+    <string name="brandon">Brandon</string>
+    <string name="kelly">Kelly</string>
+    <string name="brandonPassword">azerty</string>
+    <string name="scottPassword">soleil</string>
+    <string name="kellyPassword">123123</string>
+    <string name="emptyFields">Veuillez renseigner tout les champs</string>
+    <string name="playerScore">Entrer le score du joueur</string>
+    <string name="playerCreated">Le joueur a été créé</string>
+    <string name="scottScore">1230</string>
+    <string name="brandonScore">127</string>
+    <string name="kellyScore">8916</string>
+    <string name="seeBestPlayer">Voir le meilleur joueur</string>
+    <string name="bestPlayer">Meilleur joueur</string>
+    <string name="bestPlayerScore">Score du meilleur joueur</string>
+    <string name="emptyDatabase">Aucun joueur dans la base de données</string>
+    <string name="isBest">a le meilleur score !</string>
+    <string name="exampleTitle">Exemples de joueurs à créer</string>
+</resources>

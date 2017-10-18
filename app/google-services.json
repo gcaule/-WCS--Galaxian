@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "692740833375",
+    "firebase_url": "https://galaxian-9a811.firebaseio.com",
+    "project_id": "galaxian-9a811",
+    "storage_bucket": "galaxian-9a811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692740833375:android:738a455c78cfeed2",
+        "android_client_info": {
+          "package_name": "com.wcs.gcaule.galaxian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692740833375-ugpolnqes0krhqa0ln41mpvamu200i7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wcs.gcaule.galaxian",
+            "certificate_hash": "9da559aaa46166dada70eff3bf34b6ee1d728826"
+          }
+        },
+        {
+          "client_id": "692740833375-lf4ultadt7cmpb60f3smjv0949dpljdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxq9bzR8PAMgbqfPga1wGUAUwrMTqNB30"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692740833375-lf4ultadt7cmpb60f3smjv0949dpljdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
